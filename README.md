@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Singhal</h1>
-<h3 align="center">AI/ML Developer • Systems Thinker • Explainable-AI Enthusiast</h3>
+<h3 align="center">AI/ML Developer • Systems Thinker • Explainable-AI Developer</h3>
 
 <p align="center">
   <a href="https://yash-singhal-ys26.vercel.app/" target="_blank">
