@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/yash26122003/yash26122003/assets/banner.png" alt="Yash Singhal | AI/ML Developer" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Yash Singhal</h1>
 <h3 align="center">AI/ML Developer • Systems Thinker • Explainable-AI Enthusiast</h3>
