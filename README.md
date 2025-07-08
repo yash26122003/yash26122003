@@ -99,6 +99,7 @@ I'm a developer who builds intelligent systems that **think, explain, and scale*
 If you're working on **autonomous systems**, **explainable AI**, **secure ML**, or **intelligent infrastructure**, I'd love to collaborate!
 
 📩 yashsinghal2612@gmail.com
+
 🌐 [Portfolio](https://yash-singhal-ys26.vercel.app/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yash-singhal-3bba42272/)
 
