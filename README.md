@@ -49,10 +49,10 @@ I'm a developer who builds intelligent systems that **think, explain, and scale*
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,react,nodejs,flask,docker,aws,git,mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,react,nodejs,flask,docker,aws,git,mongodb,postgres" />
 </p>
 
-- **Languages**: Python, C++, JavaScript  
+- **Languages**: Python, Java, JavaScript  
 - **AI/ML**: PyTorch, TensorFlow, scikit-learn, OpenCV  
 - **RL & Robotics**: DDPG, CARLA, SLAM, MPC  
 - **Web**: React, Node.js, Flask  
